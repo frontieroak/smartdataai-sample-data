@@ -1,0 +1,27 @@
+first_name,last_name,email,phone,company,job_title,city,state,country,lead_source,created_date
+John,Smith,John.Smith@Example.COM,(415) 555-0132,Acme Robotics,VP Sales,San Francisco,CA,US,LinkedIn,2026-01-05
+john,smith,john.smith@example.com,415-555-0132,ACME ROBOTICS,vp sales,San Francisco,California,USA,linkedin,01/05/2026
+MARIA,GARCIA,maria.garcia@example.org,+1 415-555-0143,Bluepeak Labs,,Austin,TX,United States,Webinar,Jan 12 2026
+Maria,Garcia,maria.garcia@example.org,+1 (415) 555-0143,Bluepeak Labs,Marketing Manager,Austin,Texas,U.S.A.,Webinar,2026-01-12
+David,Chen,david.chen@example.net,415.555.0161,Juniper Systems,Data Analyst,Seattle,WA,US,Referral,5-Jan-26
+Sarah,Johnson,,4155550177,Harborlight Media,Content Lead,Denver,CO,US,Website,2026-02-03
+Sarah,Johnson,,4155550177,Harborlight Media,Content Lead,Denver,CO,US,Website,2026-02-03
+James,Wilson,james.wilson@@example.com,+44 20 7946 0301,Velora Health,Operations Director,London,,GB,Partner,2026-02-14
+Emily,Nguyen,emily.nguyen@example.com,(206) 555-0119,Copperline Manufacturing,Procurement Manager,Portland,OR,US,Trade Show,02/20/2026
+Emily,Nguyen,emily.nguyen@example.com,206-555-0119,Copperline Manufacturing,Procurement Manager,Portland,Oregon,USA,Trade Show,2026-02-20
+Robert,Taylor,robert.taylor@example.com,628-555-0126,Fernwood Retail Group,Store Manager,Chicago,IL,US,Website,2026-03-01
+Robert,Taylor,robert.taylor@example.com,628-555-0126,Fernwood Retail Group,Store Manager,Chicago,IL,US,Website,2026-03-01
+Aisha,Khan,aisha.khan@example.org,+1-312-555-0188,Skylark Education,Curriculum Designer,Chicago,Il,US,Linked In,2026-03-04
+Michael,Brown,michael.brown@example,9175550141,Brightpath Legal,Paralegal,New York,NY,US,Referral,Mar 9 2026
+Jessica,Lee,jessica.lee@example.com,+1 (917) 555-0155,Osprey Logistics,Supply Chain Analyst,New York,New York,United States,Webinar,2026-03-15
+  Daniel  , Kim ,daniel.kim@example.net,510 555 0192,Acme Robotics,Support Engineer,Oakland,Ca,US,Website,2026-03-18
+Priya,Patel,priya.patel@example.com,,Juniper Systems,Product Manager,Remote,,US,LinkedIn,2026-03-21
+Tom,Baker,tom.baker at example.com,(628) 555-0173,Bluepeak Labs,QA Engineer,San Jose,CA,US,Website,2026-03-25
+Laura,Adams,laura.adams@example.org,1-800-555-0147,Harborlight Media,Editor,Los Angeles,CA,USA,Podcast,25-Mar-26
+Kevin,White,kevin.white@example.com,(310) 555-0121,Velora Health,Nurse Coordinator,Los Angeles,CA,US,Referral,2026-03-28
+Nina,Petrova,nina.petrova@example.com,+1 206 555 0139,Skylark Education,Instructor,Seattle,WA,U.S.,Course Platform,2026-04-02
+Chris,Doyle,chris.doyle@example.net,415 555 0180,Fernwood Retail Group,Buyer,San Francisco,CA,US,Trade Show,2026-04-05
+Hannah,Moore,hannah.moore@example.com,628-555-0196,Osprey Logistics,Dispatcher,Houston,TX,US,Website,2026-04-08
+George,Hall,george.hall@example.com,(305) 555-0113,,Consultant,Miami,FL,US,Referral,2026-04-11
+Olivia,Young,olivia.young@example.org,(305) 555-0167,Brightpath Legal,Attorney,Miami,Florida,United States,Conference,2026-04-14
+Sam,Ortiz,sam.ortiz@example.com,720.555.0108,Copperline Manufacturing,Welder,Denver,CO,US,Job Board,04/17/2026
